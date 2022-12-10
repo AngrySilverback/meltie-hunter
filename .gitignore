@@ -1,0 +1,7 @@
+# Exclude unneeded python/pip data
+__pycache__/
+build/
+*.egg-info/
+
+# Exclude PRAW authentication config
+praw.ini
